@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{"/EDR":function(e,n,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return o("23aj")}])},"23aj":function(e,n,o){"use strict";o.r(n);var t=o("A0Nj");n.default=Object(t.a)({pathOverride:"/home",gtmCategoryOverride:"home"})}},[["/EDR",0,1,2,3,27]]]);

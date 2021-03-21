@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{"/6jZ":function(n,w,o){"use strict";o.r(w);var u=o("A0Nj");w.default=Object(u.a)()},B0wP:function(n,w,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/[...slug]",function(){return o("/6jZ")}])}},[["B0wP",0,1,2,3,27]]]);
